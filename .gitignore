@@ -1,0 +1,4 @@
+*.nc
+*.nc.partial
+.ipynb_checkpoints/
+__pycache__/
